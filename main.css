@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Noto+Sans+Adlam+Unjoined:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nanum+Myeongjo&family=Noto+Sans+Adlam+Unjoined:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+.header {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+  }
+
+h1{     font-family: "Playfair Display", serif;
+
+    font-size: 42px;
+    color: #343434;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    border-bottom: 4px solid #303030;
+    margin-bottom: 20px;
+}
+
+p{ margin: 0px 0px 20px 0px;
+    padding: 0px;
+    line-height: 1.5em;
+}
+
+
+nav li{ margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    font font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #343434;
+    display: inline;
+}
+
+nav{ 
+    text-align: center;
+}
+
+main a{ text-decoration: none;
+    color: #cc5caa;
+    font-size: 70px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+
+body{   font-family: "Nanum Myeongjo", serif;
+    font-size: 16px;
+    color: #343434;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+#container p{ margin: 0px 0px 20px 0px;
+    padding: 0px;
+    line-height: 1.5em;
+}
+
+/*
+
+.nanum-myeongjo-regular {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ */
+
+ /*
+
+ .playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+   */
+/*
+.josefin-sans-<uniquifier> {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+    */
