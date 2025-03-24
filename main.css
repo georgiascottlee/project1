@@ -24,6 +24,32 @@ h1{     font-family: "Playfair Display", serif;
     margin-bottom: 20px;
 }
 
+h2{     font-family: "Josefin Sans", sans-serif;
+    font-size: 24px;
+    color: #cc5caa;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    margin-bottom: 20px;
+}
+
+h3{     font-family: "Josefin Sans", sans-serif;
+    font-size: 24px;
+    color: #450030;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    margin-bottom: 20px;
+}
+
 p{ margin: 0px 0px 20px 0px;
     padding: 0px;
     line-height: 1.5em;
@@ -35,9 +61,9 @@ nav li{ margin: 0px;
     list-style-type: none;
     text-align: center;
     font-family: "Nanum Myeongjo", serif;
-    font font-style: normal;
+    font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 30 px;
     color: #343434;
     display: inline;
 }
@@ -60,6 +86,13 @@ body{   font-family: "Nanum Myeongjo", serif;
     margin: 10px;
     padding: 10px;
     background-color: #f0f0f0;
+}
+
+img{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 #container p{ margin: 0px 0px 20px 0px;
